@@ -13,7 +13,7 @@ https://lodissign.tistory.com/21
 02_영상및비디오출력
 https://lodissign.tistory.com/22
 
-0610FRI
+0610FRI, 0612SUN
 [OpenCV 활용]
 03_간단한그래픽및이벤트처리
 https://lodissign.tistory.com/23
