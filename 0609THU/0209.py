@@ -16,13 +16,13 @@ print('best.resolution', best.resolution)
 
 cap=cv2.VideoCapture(best.url)  # best.url 을 이용하여 VideoCapture 객체 cap 생성.
 while(True):
-        retval, frame = cap.read()
+        retval, frame = cap.read()      # cap.read()로 비디오 프레임 frame을 캡처하여 창에 표시하고,
         if not retval:
                 break
         cv2.imshow('frame',frame)
 
-        gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
-        edges = cv2.Canny(gray,100,200)
+        gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)  # cv2.cvtColor()로 그레이스케일로 변환하고, 
+        edges = cv2.Canny(gray,100,200)                 # cv2.Canny()로 에지를 검출하여 창에 표시.
         cv2.imshow('edges',edges)
 
         key = cv2.waitKey(25)
