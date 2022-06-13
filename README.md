@@ -18,3 +18,8 @@ https://lodissign.tistory.com/22
 03_간단한그래픽및이벤트처리
 https://lodissign.tistory.com/23
 
+0613MON
+[OpenCV 활용]
+04_OpenCV기본연산
+https://lodissign.tistory.com/24
+
