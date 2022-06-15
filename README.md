@@ -23,3 +23,8 @@ https://lodissign.tistory.com/23
 04_OpenCV기본연산
 https://lodissign.tistory.com/24
 
+0614TUE
+[OpenCV 활용]
+05_임계값과히스토그램처리
+https://lodissign.tistory.com/25
+
