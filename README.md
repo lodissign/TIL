@@ -4,7 +4,7 @@
 https://lodissign.tistory.com/13
 
 
-[OpenCV 활용]  
+[OpenCV 활용]    
 0608WED
 01_Introduction
 https://lodissign.tistory.com/21
@@ -13,7 +13,7 @@ https://lodissign.tistory.com/21
 02_영상및비디오출력
 https://lodissign.tistory.com/22
 
-0610FRI, 0612SUN
+0610FRI  0612SUN
 03_간단한그래픽및이벤트처리
 https://lodissign.tistory.com/23
 
@@ -24,4 +24,8 @@ https://lodissign.tistory.com/24
 0614TUE
 05_임계값과히스토그램처리
 https://lodissign.tistory.com/25
+
+0615WED
+06_영상공간필터링
+https://lodissign.tistory.com/26
 
