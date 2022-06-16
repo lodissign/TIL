@@ -13,7 +13,7 @@ gray = cv2.cvtColor(src, cv2.COLOR_BGR2GRAY)
 mode = cv2.RETR_EXTERNAL    # 리스트 contours에 len(contours)=1개의 가장 외곽의 윤곽선 검출.
 method = cv2.CHAIN_APPROX_SIMPLE    # 윤곽선을 다각형으로 근사한 좌표를 반환.
 ##method =cv2.CHAIN_APPROX_NONE # 이 경우 contours[0].shape가 (1400,1,2)로 윤곽선 위의 모든 좌표 1400개 검출.
-contours, hierarchy = cv2.findContours(gray, mode, method)  # mode, method 사용하여 윤곽선 검출. contours[0].shape=(4,1,2)로 4개의 검출된 좌표가 (1,2) 배열에 저장.
+temp, contours, hierarchy = cv2.findContours(gray, mode, method)  # mode, method 사용하여 윤곽선 검출. contours[0].shape=(4,1,2)로 4개의 검출된 좌표가 (1,2) 배열에 저장.
 
 print('type(contours)=', type(contours))
 print('type(contours[0])=', type(contours[0]))
