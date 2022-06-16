@@ -33,7 +33,7 @@ while True:
         dst = src.copy()    # src를 dst에 깊은 복사.
         cv2.imshow('dst',dst)        
     elif key == ord(' '): #3-3. 스페이스바 누르면 영역 분할.
-        contours, hierarchy = cv2.findContours(mask, mode, method)
+        temp, contours, hierarchy = cv2.findContours(mask, mode, method)
         print('len(contours)=', len(contours))
         markers[:,:] = 0  
         for i, cnt in enumerate(contours):

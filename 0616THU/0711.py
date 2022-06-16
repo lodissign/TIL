@@ -21,7 +21,7 @@ cv2.imshow('mask',mask)
 #3
 mode = cv2.RETR_EXTERNAL
 method = cv2.CHAIN_APPROX_SIMPLE
-contours, hierarchy = cv2.findContours(mask, mode, method)
+temp, contours, hierarchy = cv2.findContours(mask, mode, method)
 print('len(contours)=', len(contours))
 
 markers= np.zeros(shape=src.shape[:2], dtype=np.int32)
