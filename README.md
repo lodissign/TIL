@@ -29,3 +29,7 @@ https://lodissign.tistory.com/25
 06_영상공간필터링
 https://lodissign.tistory.com/26
 
+0616THU
+07_영상분할
+https://lodissign.tistory.com/27
+
