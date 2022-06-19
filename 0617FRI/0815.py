@@ -26,7 +26,8 @@ hull_points = cnt[hull[:,0]]
 cv2.drawContours(dst2, [hull_points], 0, (255,0,255), 6)
 
 #3
-T = 5 # 10
+# T = 5 
+T=10
 defects = cv2.convexityDefects(cnt, hull)
 print('defects.shape=',defects.shape)
 for i in range(defects.shape[0]):
