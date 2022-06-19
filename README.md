@@ -33,3 +33,7 @@ https://lodissign.tistory.com/26
 07_영상분할
 https://lodissign.tistory.com/27
 
+0617FRI
+08_영상특징검출
+https://lodissign.tistory.com/28
+
