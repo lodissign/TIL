@@ -37,3 +37,7 @@ https://lodissign.tistory.com/27
 08_영상특징검출
 https://lodissign.tistory.com/28
 
+0620MON
+09_특징검출,디스크립터,매칭_1
+https://lodissign.tistory.com/29
+
