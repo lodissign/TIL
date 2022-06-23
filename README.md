@@ -45,3 +45,8 @@ https://lodissign.tistory.com/29
 09_특징검출,디스크립터,매칭_2
 https://lodissign.tistory.com/30
 
+0622WED
+10_비디오처리
+https://lodissign.tistory.com/31
+
+
