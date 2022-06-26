@@ -57,7 +57,7 @@ https://lodissign.tistory.com/32
 
 
 	
-[딥러닝 영상처리]      소스 코드: https://github.com/lodissign/deep-learning-tensorflow-book-code.git
+[딥러닝 영상처리]      소스 코드: https://github.com/lodissign/deep-learning-tensorflow-book-code.git  
 0624FRI
 01_인공지능소개, 02_텐서플로소개, 03_텐서플로기초와텐서보드
 https://lodissign.tistory.com/35
