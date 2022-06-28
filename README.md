@@ -64,4 +64,7 @@ https://lodissign.tistory.com/32
 01_인공지능소개, 02_텐서플로소개, 03_텐서플로기초와텐서보드
 https://lodissign.tistory.com/35
 
+0627MON
+04_머신러닝기초이론들
+https://lodissign.tistory.com/36
 
