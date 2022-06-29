@@ -65,6 +65,10 @@ https://lodissign.tistory.com/32
 https://lodissign.tistory.com/35
 
 0627MON
-04_머신러닝기초이론들
+04_머신러닝기초이론들 Multivariable_Linear_Regression_&_Classification
 https://lodissign.tistory.com/36
+
+0628TUE
+04_머신러닝_기초이론들
+https://lodissign.tistory.com/37
 
