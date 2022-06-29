@@ -72,3 +72,7 @@ https://lodissign.tistory.com/36
 04_머신러닝_기초이론들
 https://lodissign.tistory.com/37
 
+0629WED
+05_인공신경망
+https://lodissign.tistory.com/38
+
