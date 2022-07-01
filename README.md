@@ -76,3 +76,7 @@ https://lodissign.tistory.com/37
 05_인공신경망
 https://lodissign.tistory.com/38
 
+0630THU
+06_오토인코더_&_performance_improvement
+https://lodissign.tistory.com/39
+
