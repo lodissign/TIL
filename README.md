@@ -80,3 +80,7 @@ https://lodissign.tistory.com/38
 06_오토인코더_&_performance_improvement
 https://lodissign.tistory.com/39
 
+0701FRI
+GPU를 tensorflow에서 활용하기 위한 설정 수행
+https://lodissign.tistory.com/40
+
