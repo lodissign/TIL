@@ -86,4 +86,7 @@ https://lodissign.tistory.com/40
 07_1_CNN_basic_with_MNIST
 https://lodissign.tistory.com/41
 
+0704MON
+07_2_CNN_applications
+https://lodissign.tistory.com/42
 
