@@ -83,4 +83,7 @@ https://lodissign.tistory.com/39
 0701FRI
 GPU를 tensorflow에서 활용하기 위한 설정 수행
 https://lodissign.tistory.com/40
+07_1_CNN_basic_with_MNIST
+https://lodissign.tistory.com/41
+
 
