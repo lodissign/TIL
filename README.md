@@ -90,3 +90,7 @@ https://lodissign.tistory.com/41
 07_2_CNN_applications
 https://lodissign.tistory.com/42
 
+0705TUE
+08_RNN
+https://lodissign.tistory.com/43
+
