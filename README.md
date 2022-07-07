@@ -94,3 +94,7 @@ https://lodissign.tistory.com/42
 08_RNN
 https://lodissign.tistory.com/43
 
+0706WED
+09_이미지_캡셔닝
+https://lodissign.tistory.com/44
+
