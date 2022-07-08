@@ -98,3 +98,7 @@ https://lodissign.tistory.com/43
 09_이미지_캡셔닝
 https://lodissign.tistory.com/44
 
+0707THU
+10_Semantic_Image_Segmentation
+https://lodissign.tistory.com/45
+
