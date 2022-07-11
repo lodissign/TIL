@@ -102,3 +102,7 @@ https://lodissign.tistory.com/44
 10_Semantic_Image_Segmentation
 https://lodissign.tistory.com/45
 
+0708FRI
+13장_파인튜닝_&_사전학습모델_활용
+https://lodissign.tistory.com/46
+
