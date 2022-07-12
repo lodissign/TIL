@@ -106,3 +106,11 @@ https://lodissign.tistory.com/45
 13장_파인튜닝_&_사전학습모델_활용
 https://lodissign.tistory.com/46
 
+
+
+
+
+[강화학습]
+01_강화학습_개요
+https://lodissign.tistory.com/47
+
