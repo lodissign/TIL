@@ -110,7 +110,13 @@ https://lodissign.tistory.com/46
 
 
 
-[강화학습]
+[강화학습]  
+
+0711MON
 01_강화학습_개요
 https://lodissign.tistory.com/47
+
+0712TUE
+02_Q-table_&_Q-Network
+https://lodissign.tistory.com/48
 
