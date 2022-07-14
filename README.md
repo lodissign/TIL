@@ -120,3 +120,7 @@ https://lodissign.tistory.com/47
 02_Q-table_&_Q-Network
 https://lodissign.tistory.com/48
 
+0713WED
+03_Deep_Q_Network
+https://lodissign.tistory.com/49
+
